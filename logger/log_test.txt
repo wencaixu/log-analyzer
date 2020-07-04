@@ -1,0 +1,2 @@
+[06-24 00:11:56 INFO  up StatusService:66] up平台状态请求响应{"error_code":0,"msg":"","data":[{"network":"mt","ad":"201043446","status":"成功","reason":""},{"network":"mt","ad":"201042503","status":"未推送","reason":""}]}
+[06-24 00:12:00 INFO  up StatusService:66] up平台状态请求响应{"error_code":0,"msg":"","data":[{"network":"mt","ad":"201043001","status":"未推送","reason":""},{"network":"mt","ad":"201042643","status":"未推送","reason":" "}]}
